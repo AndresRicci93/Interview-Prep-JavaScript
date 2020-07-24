@@ -9,6 +9,6 @@ https://youtu.be/DqGwxR_0d1M
 - prototype basics:
 https://youtu.be/YkoelSTUy7A
 - Prototypes in JavaScript:
-Prototypes in JavaScript 
+https://youtu.be/riDVvXZ_Kb4
 - prototype inheritance: 
 https://javascript.info/prototype-inheritance
