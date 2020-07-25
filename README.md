@@ -20,3 +20,5 @@ https://javascript.info/prototype-inheritance
 https://spin.atomicobject.com/2014/10/20/javascript-scope-closures/
 - Understanding Closures in JavaScript:
 https://alligator.io/js/closures/
+- You don't know JS:
+https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures
