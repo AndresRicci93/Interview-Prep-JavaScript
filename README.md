@@ -12,3 +12,11 @@ https://youtu.be/YkoelSTUy7A
 https://youtu.be/riDVvXZ_Kb4
 - prototype inheritance: 
 https://javascript.info/prototype-inheritance
+
+
+## - Scope & Closures
+
+- What You Should Already Know about JavaScript Scope:
+https://spin.atomicobject.com/2014/10/20/javascript-scope-closures/
+- Understanding Closures in JavaScript:
+https://alligator.io/js/closures/
